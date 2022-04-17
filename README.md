@@ -15,6 +15,6 @@ App που αναλαμβάει ότι έχει σχέση με το κεντρ�
 select_game_windows που αναλαμβάνει το παράθυρο της επιλογής παιχνιδιού
 
 Η μορφή της λίστας που θα περιγράφει την σκακιέρα θα είναι:
-ameList = ['rnbqkbnrpppppppp................................PPPPPPPPRNBQKBNR',
+GameList = ['rnbqkbnrpppppppp................................PPPPPPPPRNBQKBNR',
                 'rnbqkbnrppppppp.p.................................PPPPPPPPRNBQKBNR',
                 'rnbqkbnrppppppp.p...............................P..PPPPPPPRNBQKBNR']
